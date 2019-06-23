@@ -1,2 +1,2 @@
 # stanford-ml
-Python implementation of the assignments from the Andrews Ng's machine learning course.
+Python implementation of the assignments from Andrews Ng's machine learning course.
